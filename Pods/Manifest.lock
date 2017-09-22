@@ -1,0 +1,24 @@
+PODS:
+  - Masonry (1.0.2)
+  - Toast (3.1.0)
+  - UIColor+Hex (1.0.1):
+    - UIColor+Hex/NSColor (= 1.0.1)
+    - UIColor+Hex/UIColor (= 1.0.1)
+  - UIColor+Hex/UIColor (1.0.1)
+  - UIView+FrameEx (0.0.1)
+
+DEPENDENCIES:
+  - Masonry
+  - Toast
+  - UIColor+Hex
+  - UIView+FrameEx
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+  UIColor+Hex: 9fee91bb8e19f17dd40a79ae1e98949a6a84489d
+  UIView+FrameEx: ab0c53e158ef0621d7b0b0a26626e175ac17e471
+
+PODFILE CHECKSUM: 7713a8e7cab07b7b1351d8f67a4418e29e9f5b0f
+
+COCOAPODS: 1.2.0
